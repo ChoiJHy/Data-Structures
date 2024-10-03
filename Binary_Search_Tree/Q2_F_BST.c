@@ -91,6 +91,14 @@ int main()
 void inOrderTraversal(BSTNode *root)
 {
 	 /* add your code here */
+	 // commit Test
+	 // commit Test
+	 // commit Test
+	 // commit Test
+	 // commit Test
+	 // commit Test
+	 // commit Test
+	 printf("commit Test입니다.\n");
 }
 
 ///////////////////////////////////////////////////////////////////////////////
